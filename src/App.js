@@ -1,5 +1,6 @@
 
 import React from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Baners from "./components/Baners";
 import Footer from "./components/Footer";
 import ItemListContainer from "./components/ItemListContainer";
@@ -8,14 +9,23 @@ import Promociones from "./components/Promociones";
 
 function App() {
   return (
-     <div>
-      <NavBar />  
-      <ItemListContainer greeting={"¡¡Bienvenidos a Olympic Sport!! "}/>
-      <Baners/>
-      <Promociones/>
-      <Footer/>
-       
-     </div>
+    <BrowserRouter>
+      <NavBar />
+      <Routes>
+        <Route  path={"/"} element={<ItemListContainer />}/>
+
+      </Routes>
+
+
+
+
+
+
+
+      <Baners />
+      <Promociones />
+      <Footer />
+    </BrowserRouter>
   );
 }
 

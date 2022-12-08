@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "nombre": "REMERA ARGENTINA ESTAMPADA",
+        "descripcion": "100 % Argentina Esta remera estampada te permite representar a tu selección en todo momento y lugar",
+        "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/1592370fca294d1ab147ae680123cdec_9366/Remera_Argentina_Estampada_Blanco_HG1358.jpg",
+        "precio": 10.000,
+        "categoria": "Remeras",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "nombre": "CAMPERA ANTHEM ARGENTINA GAME DAY",
+        "descripcion": "Este producto está confeccionado con hilo que contiene un 50 % de Parley Ocean Plastic, un material que ha sido recuperado de residuos plásticos recogidos en islas remotas, playas, comunidades y zonas costera",
+        "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/1cde5336cf8b4b85861daeef00afbf68_9366/Campera_Anthem_Argentina_Game_Day_Blanco_IC4446.jpg",
+        "precio": 34.000,
+        "categoria": "BUZOS",
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "nombre": "SHORTS DE VIAJE ARGENTINA GAME DAY",
+        "descripcion": "Este producto, hecho con una serie de materiales reciclados y al menos 60 % de contenido reciclado",
+        "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/67d9cc0cc4e04cad8b05aef500c66d8c_9366/Shorts_de_Viaje_Argentina_Game_Day_Blanco_IC4449.jpg",
+        "precio": 15.000,
+        "categoria": "Pantalones",
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "nombre": "CAMISETA OFICIAL ARGENTINA 22",
+        "descripcion": "Luce el diseño que visten los jugadores en la cancha y es perfecta para jugar fútbol gracias a su escudo liviano y la tecnología de ventilación HEAT.RDY.",
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/20fa90326f3c4bdebab0aee700974298_9366/Camiseta_Prepartido_Seleccion_Argentina_Azul_HG7233_21_model.jpg",
+        "precio": 18.000,
+        "categoria": "Remeras",
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "nombre": "BOTINES X SPEEDPORTAL.4 CÉSPED ARTIFICIAL",
+        "descripcion": "Tiempo y espacio. Todo es relativo cuando jugás en una dimensión diferente. Abrí el portal a la velocidad multidimensional con adidas X Speedportal.",
+        "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/4db63918609a459db9dfaea9010535c8_9366/Botines_X_Speedportal.4_Cesped_Artificial_Azul_GW8508.jpg",
+        "precio": 20.000,
+        "categoria": "Zapatillas",
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "nombre": "Zapatillas TRC Blaze Tech",
+        "descripcion": "CMEVA: el material de EVA moldeado por compresión de PUMA con un performance ligero",
+        "imagen": "https://img.segmentify.com/s/fit-in/360x360/filters:fill(FFFFFF)/images.puma.net/images/384960/02/sv01/fnd/ARG/",
+        "precio": 20.000,
+        "categoria": "Zapatillas",
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "nombre": "NIKE SB DUNK HIGH PRO QS",
+        "descripcion": "El KCDC SB Dunk High Pro es la culminación de 20 años de compromiso y representa lo que vendrá. Con rosas vibrantes como la base de la combinación de colores",
+        "imagen": "https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_540,c_limit/2cfa2178-f306-449e-bcf5-79cb1118639b/nike-sb-dunk-high-pro-qs.png",
+        "precio": 34.000,
+        "categoria": "Zapatillas",
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "nombre": "WMNS AIR FORCE 1 '07 ",
+        "descripcion": "Dejá que tu espíritu rebelde brille en la Air Force 1 '07 LX. Las superposiciones cosidas, los detalles audaces y la cantidad justa de estilo de aros ayudan a que estas zapatillas llamen la atención en la calle",
+        "imagen": "https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_540,c_limit/0e3ae533-d28b-4f32-9aa6-a56c52599998/wmns-air-force-1-07-lx-our-force-1.png",
+        "precio": 36.000,
+        "categoria": "Zapatillas",
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "nombre": "ZAPATILLAS FORUM 84 LOW 8K",
+        "descripcion": "Las zapatillas adidas Forum causan impresión donde vayan. No solo por su icónico panel lateral en forma de X o su correa acolchada en el tobillo.",
+        "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/6a8daa0eedf14fe99ac4ae0c01544268_9366/Zapatillas_Forum_84_Low_8K_Azul_GZ6479.jpg",
+        "precio": 19.000,
+        "categoria": "Remeras",
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "nombre": "Calza Nike Crochet 7/8 Tight,",
+        "descripcion": "Aumentá la resistencia en cada movimiento y elevá tu relajación al máximo con la Calza Nike Crochet 7/8 Tight su material suave y flexible con la tecnología DriFit te envuelve desde la cintura hasta los tobillos manteniéndote seca y libre de sudor.",
+        "imagen": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw390a84f8/products/NI_DA1037-010/NI_DA1037-010-1.JPG",
+        "precio": 10.000,
+        "categoria": "Pantalones",
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "nombre": "Camiseta Nike Jag Dry Rep ",
+        "descripcion": "Camiseta Nike Jaguares Oficial Infantil, ideal para pequeños rugbiers camino a profesionalizarse. En la cancha, la tribuna y la vida cotidiana. Con exclusivo diseño, de corte regular y cuello en V.",
+        "imagen": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3e348594/products/NI_CD1688-010/NI_CD1688-010-1.JPG",
+        "precio": 15.000,
+        "categoria": "Remeras",
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "nombre": "Camiseta Nike FC Barcelona ",
+        "descripcion": " Esta remera estampada te permite representar a tu equipo en todo momento y lugar",
+        "imagen": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw46b515c0/products/NI_AJ5748-456/NI_AJ5748-456-1.JPG",
+        "precio": 19.000,
+        "categoria": "Remeras",
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "nombre": "REMERA LOVE UNITES TRIFOLIO (UNISEX)",
+        "descripcion": "La colección adidas X Kris Andrew Small Pride 2022 está inspirada en los activistas de Stonewal",
+        "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/6744427b6f794625bb01ae42016837d1_9366/Remera_Love_Unites_Trifolio_(Unisex)_Blanco_HC3076.jpg",
+        "precio": 14.000,
+        "categoria": "Remeras",
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "nombre": "REMERA MESSAGE JENN (GÉNERO NEUTRO)",
+        "descripcion": "Las pasiones del equipo de adidas Skateboarding se convirtieron en una declaración de intenciones en esta remera estampada.",
+        "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/7256c678dab8474caef0adc600fa6457_9366/Remera_Message_Jenn_(Genero_Neutro)_Blanco_HC0175.jpg",
+        "precio": 10.000,
+        "categoria": "Remeras",
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "nombre": "BUZO CON CAPUCHA REVEAL ESS",
+        "descripcion": "Este buzo con capucha adidas pronto se convertirá en uno de tus favoritos",
+        "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/3fc381ac69954c6d8adcae9100effa8d_9366/Buzo_con_Capucha_Reveal_ESS_Gris_HK2725.jpg",
+        "precio": 32.000,
+        "categoria": "BUZOS",
+        "stock": 10
+    },
+
+    {
+        "id": 16,
+        "nombre":"Zapatillas de running Magnify NITRO Surge",
+        "descripcion": "Con las Magnify NITRO siempre caminas con comodidad. Esta temporada cambiamos la base del modelo y desarrollamos un empeine de malla que combinamos con un nuevo material para la lengüeta del felino a fin de mantener tus pies siempre seguros. ",
+        "imagen": "https://www.opensports.com.ar/media/catalog/product/cache/4769e4d9f3516e60f2b4303f8e5014a8/3/7/37690506_0_14.jpg",
+        "precio": 42.000,
+        "categoria": "Zapatillas",
+        "stock": 10
+    }
+]
